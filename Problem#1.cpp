@@ -1,6 +1,8 @@
 // Program for multiplication tables from 1 to 10
 #include <iostream>
 #include <string>
+#include <cmath>
+
 using namespace std;
 
 // Prints the table header for the multiplication table
