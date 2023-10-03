@@ -12,9 +12,8 @@ enum enPrimeNoPrime
 };
 
 /**
- * Read a positive number from the user.
- *
- * @param message the message to display to the user
+ * Read a positive number from the user.*
+* @param message the message to display to the user
  *
  * @return the positive number entered by the user
  *
