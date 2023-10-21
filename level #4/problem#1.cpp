@@ -1,9 +1,13 @@
-#include <iosstream>
+#include <iostream>
 #include <string>
 #include <cmath>
 using namespace std;
 
-in main(){
-    
+void printName(string name){
+    cout <<  "\n your name is : " << name << endl;
+}
+
+int main(){
+    printName("ahmed");
     return 0;
 }
